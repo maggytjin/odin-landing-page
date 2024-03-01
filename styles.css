@@ -56,3 +56,35 @@ button {
     color: #F9FAF8;
     font-weight: bold;
 }
+
+.random-section {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 200px 80px 200px;
+}
+.random-section h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+.images {
+    display: flex;
+    justify-content: center;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info img {
+    border-radius: 5%;
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
+.info p {
+    color: #1F2937;
+    text-align: center;
+}
