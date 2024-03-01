@@ -2,7 +2,7 @@
 Creating a landing page for The Odin Project after learning HTML and CSS
 
 Photos: 
-Lake and mountain under white sky - eberhard grossgasteiger https://www.pexels.com/photo/lake-and-mountain-under-white-sky-443446/
+Mountain - eberhard grossgasteiger https://www.pexels.com/photo/lake-and-mountain-under-white-sky-443446/
 
 Sunflower - Brett Sayles https://www.pexels.com/photo/sunflowers-1322185/
 
