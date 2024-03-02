@@ -17,7 +17,7 @@ body {
 }
 .logo {
     color: #F9FAF8;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 800;
 }
 ul {
@@ -37,6 +37,7 @@ ul li {
     background-color: #1F2937;
     padding: 70px 200px;
     margin: 0;
+    gap: 20px;
 }
 .hero-heading {
     font-size: 48px;
@@ -63,7 +64,7 @@ button {
     justify-content: center;
     align-items: center;
     padding: 60px 200px 80px 200px;
-    gap: 8px;
+
 }
 .random-section h2 {
     font-size: 36px;
@@ -73,11 +74,14 @@ button {
 .images {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
 }
 .info {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 200px;
 }
 .info img {
     border-radius: 10px;
